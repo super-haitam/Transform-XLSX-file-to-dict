@@ -1,0 +1,928 @@
+{
+    "Mercredi 18 Septembre ": [
+        {
+            "startTime": "09H00",
+            "endTime": "11H00",
+            "lesson": "Chimie",
+            "location": "Amphi Assni",
+            "number": 90,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Chimie",
+            "location": "Amphi Assni",
+            "number": 90,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": "Introduction to computing",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "16H00",
+            "endTime": "18H00",
+            "lesson": "Test de positionnement de langues",
+            "location": "Riad 9 (College of Computing):\n                         - Groupe 1: Salle Lab.Info 001 (RDC)\n                         - Groupe 2: Salle Lab.Info 002 (RDC)\n                         - Groupe 3: Salle Lab.Info 101 (1er \u00e9tage)\n                         - Groupe 4: Salle Lab.Info 102 (1er \u00e9tage)\"",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Jeudi 19 Septembre ": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": " M\u00e9thodes de travail unversitaires",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": 94,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": " M\u00e9thodes de travail unversitaires",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": 94,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Vendredi 20 Septembre ": [
+        {
+            "startTime": "08H30",
+            "endTime": "10H00",
+            "lesson": "Optique",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "10H10",
+            "endTime": "11H40",
+            "lesson": "Optique",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H50",
+            "endTime": "13H20",
+            "lesson": "Introduction to computing",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Lundi 23 Septembre ": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Analyse 1",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Analyse 1",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Analyse 1",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": "M\u00e9canique du point mat\u00e9riel",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "M\u00e9canique du point mat\u00e9riel (TD)",
+            "location": "Teaching center:\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": "Groupe 3 (LIMNI Laila)\nGroupe 4 (ELASRI Youssef)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "17H35",
+            "endTime": "19H05",
+            "lesson": "Fran\u00e7ais",
+            "location": "Language Lab: Block B, Room 5, 1st Floor",
+            "number": "Groupe 2",
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Mardi 24 Septembre ": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Alg\u00e8bre 1",
+            "location": "Amphi Assni",
+            "number": 92,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Alg\u00e8bre 1",
+            "location": "Amphi Assni",
+            "number": 92,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Alg\u00e8bre 1",
+            "location": "Amphi Assni",
+            "number": 92,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": "Optique (TD)",
+            "location": "Teaching center:\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": "Groupe 3 (EL OTEBY Samir)\nGroupe 4 (LIMNI Laila)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "M\u00e9canique du point mat\u00e9riel (TD)",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11",
+            "number": "Groupe 1 (EL OTEBY Samir)\nGroupe 2 (LIMNI Laila)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "Anglais",
+            "location": "Language Lab: Block B, Room 5, 1st Floor",
+            "number": "Groupe 4",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "Anglais",
+            "location": "Language Lab: Block B, Room 5, 1st Floor",
+            "number": "Groupe 3",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "17H35",
+            "endTime": "19H05",
+            "lesson": "Fran\u00e7ais",
+            "location": "\u00a0Language Lab:\n                         - Groupe 1: Block C, Room 5, 1st Floor\n                         - Groupe 4: Block A, Room 2, 2nd Floor",
+            "number": "Groupe 1\nGroupe 4",
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Mercredi 25 Septembre ": [
+        {
+            "startTime": "09H00",
+            "endTime": "11H00",
+            "lesson": "Chimie",
+            "location": "Amphi Assni",
+            "number": 90,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Chimie",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": "Groupe 1 (SABI Noha)\nGroupe 2 (ILSOUK Mohamed)\nGroupe 3 (OUHSINE Bouchaib)\nGroupe 4 (BENAISSA Idir)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": "Introduction to computing",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Jeudi 26 Septembre ": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Riad 9 (College of Computing):\n                         - Groupe 1: Salle Lab.Info 001 (RDC)\n                         - Groupe 2: Salle Lab.Info 002 (RDC)\n                         - Groupe 3: Salle Lab.Info 101 (1er \u00e9tage)\n                         - Groupe 4: Salle Lab.Info 102 (1er \u00e9tage)",
+            "number": "Groupe 1(ASSKLOU Abdelwahed)\nGroupe 2 (ABOUZAHIR Mehdi)\nGroupe 3 (BOUCHOUIRBAT Redoaune)\n Groupe 4 (BOUISSALI Yousra)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": " M\u00e9thodes de travail unversitaires",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": 94,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": " M\u00e9thodes de travail unversitaires",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": 94,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "17H35",
+            "endTime": "19H05",
+            "lesson": "Anglais",
+            "location": "Language Lab:\n                         - Groupe 1: Block C, Room 5, 1st Floor\n                         - Groupe 2: Block B, Room 5, 1st Floor",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Vendredi 27 Septembre ": [
+        {
+            "startTime": "08H30",
+            "endTime": "10H00",
+            "lesson": "Optique (TD)",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11",
+            "number": "Groupe 1 (AAMOUCHE Ahmed)\nGroupe 2 (ARRAJI Ayoub)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "10H10",
+            "endTime": "11H40",
+            "lesson": "Introduction to computing",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Lundi 30 Septembre ": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Analyse 1",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Analyse 1",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Analyse 1",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": "M\u00e9canique du point mat\u00e9riel",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "M\u00e9canique du point mat\u00e9riel (TD)",
+            "location": "Teaching center:\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": "Groupe 3 (LIMNI Laila)\nGroupe 4 (ELASRI Youssef)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "17H35",
+            "endTime": "19H05",
+            "lesson": "Fran\u00e7ais",
+            "location": "Language Lab: Block B, Room 5, 1st Floor",
+            "number": "Groupe 2",
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Mardi 01 Octobre": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Alg\u00e8bre 1",
+            "location": "Amphi Assni",
+            "number": 92,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Alg\u00e8bre 1",
+            "location": "Amphi Assni",
+            "number": 92,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Alg\u00e8bre 1",
+            "location": "Amphi Assni",
+            "number": 92,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "M\u00e9canique du point mat\u00e9riel (TD)",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11",
+            "number": "Groupe 1 (EL OTEBY Samir)\nGroupe 2 (LIMNI Laila)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "Anglais",
+            "location": "Language Lab: Block B, Room 5, 1st Floor",
+            "number": "Groupe 4",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "Anglais",
+            "location": "Language Lab: Block B, Room 5, 1st Floor",
+            "number": "Groupe 3",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "17H35",
+            "endTime": "19H05",
+            "lesson": "Fran\u00e7ais",
+            "location": "\u00a0Language Lab:\n                         - Groupe 1: Block C, Room 5, 1st Floor\n                         - Groupe 4: Block A, Room 2, 2nd Floor",
+            "number": "Groupe 1\nGroupe 4",
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Mercredi 02 Octobre ": [
+        {
+            "startTime": "09H00",
+            "endTime": "11H00",
+            "lesson": "Chimie",
+            "location": "Amphi Assni",
+            "number": 90,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Chimie",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": "Groupe 1 (SABI Noha)\nGroupe 2 (ILSOUK Mohamed)\nGroupe 3 (OUHSINE Bouchaib)\nGroupe 4 (BENAISSA Idir)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": "Introduction to computing",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Jeudi 03 Octobre": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Riad 9 (College of Computing):\n                         - Groupe 1: Salle Lab.Info 001 (RDC)\n                         - Groupe 2: Salle Lab.Info 002 (RDC)\n                         - Groupe 3: Salle Lab.Info 101 (1er \u00e9tage)\n                         - Groupe 4: Salle Lab.Info 102 (1er \u00e9tage)",
+            "number": "Groupe 1(ASSKLOU Abdelwahed)\nGroupe 2 (ABOUZAHIR Mehdi)\nGroupe 3 (BOUCHOUIRBAT Redoaune)\n Groupe 4 (BOUISSALI Yousra)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": " M\u00e9thodes de travail unversitaires",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": 94,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": " M\u00e9thodes de travail unversitaires",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": 94,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "17H35",
+            "endTime": "19H05",
+            "lesson": "Anglais",
+            "location": "Language Lab:\n                         - Groupe 1: Block C, Room 5, 1st Floor\n                         - Groupe 2: Block B, Room 5, 1st Floor",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Vendredi 04 Octobre": [
+        {
+            "startTime": "08H30",
+            "endTime": "10H00",
+            "lesson": "Optique (Cours)",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "10H10",
+            "endTime": "11H40",
+            "lesson": "Introduction to computing",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Lundi 07 Octobre": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Analyse 1",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Analyse 1",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Analyse 1",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": "M\u00e9canique du point mat\u00e9riel",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "M\u00e9canique du point mat\u00e9riel (TD)",
+            "location": "Teaching center:\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": "Groupe 3 (LIMNI Laila)\nGroupe 4 (ELASRI Youssef)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "17H35",
+            "endTime": "19H05",
+            "lesson": "Fran\u00e7ais",
+            "location": "Language Lab: Block B, Room 5, 1st Floor",
+            "number": "Groupe 2",
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Mardi 08 Octobre": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Alg\u00e8bre 1",
+            "location": "Amphi Assni",
+            "number": 92,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Alg\u00e8bre 1",
+            "location": "Amphi Assni",
+            "number": 92,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Alg\u00e8bre 1",
+            "location": "Amphi Assni",
+            "number": 92,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": "Optique (TD)",
+            "location": "Teaching center:\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": "Groupe 3 (EL OTEBY Samir)\nGroupe 4 (LIMNI Laila)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "M\u00e9canique du point mat\u00e9riel (TD)",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11",
+            "number": "Groupe 1 (EL OTEBY Samir)\nGroupe 2 (LIMNI Laila)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "Anglais",
+            "location": "Language Lab: Block B, Room 5, 1st Floor",
+            "number": "Groupe 4",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "Anglais",
+            "location": "Language Lab: Block B, Room 5, 1st Floor",
+            "number": "Groupe 3",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "17H35",
+            "endTime": "19H05",
+            "lesson": "Fran\u00e7ais",
+            "location": "\u00a0Language Lab:\n                         - Groupe 1: Block C, Room 5, 1st Floor\n                         - Groupe 4: Block A, Room 2, 2nd Floor",
+            "number": "Groupe 1\nGroupe 4",
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Mercredi 09 Octobre ": [
+        {
+            "startTime": "09H00",
+            "endTime": "11H00",
+            "lesson": "Chimie",
+            "location": "Amphi Assni",
+            "number": 90,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Chimie",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": "Groupe 1 (SABI Noha)\nGroupe 2 (ILSOUK Mohamed)\nGroupe 3 (OUHSINE Bouchaib)\nGroupe 4 (BENAISSA Idir)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": "Introduction to computing",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Jeudi 10 Octobre": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Riad 9 (College of Computing):\n                         - Groupe 1: Salle Lab.Info 001 (RDC)\n                         - Groupe 2: Salle Lab.Info 002 (RDC)\n                         - Groupe 3: Salle Lab.Info 101 (1er \u00e9tage)\n                         - Groupe 4: Salle Lab.Info 102 (1er \u00e9tage)",
+            "number": "Groupe 1(ASSKLOU Abdelwahed)\nGroupe 2 (ABOUZAHIR Mehdi)\nGroupe 3 (BOUCHOUIRBAT Redoaune)\n Groupe 4 (BOUISSALI Yousra)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": " M\u00e9thodes de travail unversitaires",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": 94,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": " M\u00e9thodes de travail unversitaires",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": 94,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "17H35",
+            "endTime": "19H05",
+            "lesson": "Anglais",
+            "location": "Language Lab:\n                         - Groupe 1: Block C, Room 5, 1st Floor\n                         - Groupe 2: Block B, Room 5, 1st Floor",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Vendredi 11 Octobre": [
+        {
+            "startTime": "08H30",
+            "endTime": "10H00",
+            "lesson": "Optique (TD)",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11",
+            "number": "Groupe 1 (AAMOUCHE Ahmed)\nGroupe 2 (ARRAJI Ayoub)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "10H10",
+            "endTime": "11H40",
+            "lesson": "Introduction to computing",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Lundi 14 Octobre": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Analyse 1",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Analyse 1",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Analyse 1",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": "M\u00e9canique du point mat\u00e9riel",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "M\u00e9canique du point mat\u00e9riel (TD)",
+            "location": "Teaching center:\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": "Groupe 3 (LIMNI Laila)\nGroupe 4 (ELASRI Youssef)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "17H35",
+            "endTime": "19H05",
+            "lesson": "Fran\u00e7ais",
+            "location": "Language Lab: Block B, Room 5, 1st Floor",
+            "number": "Groupe 2",
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Mardi 15 Octobre": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Alg\u00e8bre 1",
+            "location": "Amphi Assni",
+            "number": 92,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Alg\u00e8bre 1",
+            "location": "Amphi Assni",
+            "number": 92,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Alg\u00e8bre 1",
+            "location": "Amphi Assni",
+            "number": 92,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "M\u00e9canique du point mat\u00e9riel (TD)",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11",
+            "number": "Groupe 1 (EL OTEBY Samir)\nGroupe 2 (LIMNI Laila)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "Anglais",
+            "location": "Language Lab: Block B, Room 5, 1st Floor",
+            "number": "Groupe 4",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": "Anglais",
+            "location": "Language Lab: Block B, Room 5, 1st Floor",
+            "number": "Groupe 3",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "17H35",
+            "endTime": "19H05",
+            "lesson": "Fran\u00e7ais",
+            "location": "\u00a0Language Lab:\n                         - Groupe 1: Block C, Room 5, 1st Floor\n                         - Groupe 4: Block A, Room 2, 2nd Floor",
+            "number": "Groupe 1\nGroupe 4",
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Mercredi 16 Octobre ": [
+        {
+            "startTime": "09H00",
+            "endTime": "11H00",
+            "lesson": "Chimie",
+            "location": "Amphi Assni",
+            "number": 90,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Chimie",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": "Groupe 1 (SABI Noha)\nGroupe 2 (ILSOUK Mohamed)\nGroupe 3 (OUHSINE Bouchaib)\nGroupe 4 (BENAISSA Idir)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": "Introduction to computing",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Jeudi 17 Octobre": [
+        {
+            "startTime": "08H30",
+            "endTime": "09H30",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "09H40",
+            "endTime": "11H10",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "11H20",
+            "endTime": "12H50",
+            "lesson": "Fondamentaux du d\u00e9veloppement logiciel (Python)",
+            "location": "Riad 9 (College of Computing):\n                         - Groupe 1: Salle Lab.Info 001 (RDC)\n                         - Groupe 2: Salle Lab.Info 002 (RDC)\n                         - Groupe 3: Salle Lab.Info 101 (1er \u00e9tage)\n                         - Groupe 4: Salle Lab.Info 102 (1er \u00e9tage)",
+            "number": "Groupe 1(ASSKLOU Abdelwahed)\nGroupe 2 (ABOUZAHIR Mehdi)\nGroupe 3 (BOUCHOUIRBAT Redoaune)\n Groupe 4 (BOUISSALI Yousra)",
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "14H15",
+            "endTime": "15H45",
+            "lesson": " M\u00e9thodes de travail unversitaires",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": 94,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "15H55",
+            "endTime": "17H25",
+            "lesson": " M\u00e9thodes de travail unversitaires",
+            "location": "Teaching center:\n                         - Groupe 1: TC-B-14\n                         - Groupe 2: TC-F-11\n                         - Groupe 3: TC-F-12\n                         - Groupe 4: TC-F-14",
+            "number": 94,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "17H35",
+            "endTime": "19H05",
+            "lesson": "Anglais",
+            "location": "Language Lab:\n                         - Groupe 1: Block C, Room 5, 1st Floor\n                         - Groupe 2: Block B, Room 5, 1st Floor",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ],
+    "Vendredi 18 Octobre": [
+        {
+            "startTime": "08H30",
+            "endTime": "10H00",
+            "lesson": "Optique (Cours)",
+            "location": "Amphi Assni",
+            "number": 93,
+            "notice": "(No Notice Provided)"
+        },
+        {
+            "startTime": "10H10",
+            "endTime": "11H40",
+            "lesson": "Introduction to computing",
+            "location": "Amphi Assni",
+            "number": 87,
+            "notice": "(No Notice Provided)"
+        }
+    ]
+}
